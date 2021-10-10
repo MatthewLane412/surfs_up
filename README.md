@@ -6,7 +6,11 @@ This analysis is based on trying to open up a business called Surf n' Shake shop
 
 ## Results
 
-
+ ![movie query](/Resources/movies_query.PNG)
+ 
+  ![movie query](/Resources/movies_query.PNG)
+  
+   ![movie query](/Resources/movies_query.PNG)
 
 ## Summary
 
