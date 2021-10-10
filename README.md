@@ -10,7 +10,8 @@ This analysis is based on trying to open up a business called Surf n' Shake shop
  
 #### December Temp Stats
 ![Dec_Temp](/Resources/December_temp_analysis.PNG)
-  
+
+#### Filtering Code Sample
  ![Code_Example](/Resources/Code_Example.PNG)
 
 ## Summary
