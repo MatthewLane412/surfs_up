@@ -10,7 +10,7 @@ This analysis is based on trying to open up a business called Surf n' Shake shop
  
 ![movie query]("/Resources/December temp analysis.PNG")
   
-   ![movie query](/Resources/movies_query.PNG)
+ ![ratings query](/Resources/December temp analysis.PNG)
 
 ## Summary
 
