@@ -10,6 +10,9 @@ In order to filter the data down to specific months of the year, I utilized the 
  ![Code_Example](/Resources/Code_Example.PNG)
 
 ## Results
+
+- June is a great month 
+
 #### June Temp Stats
 ![June_Temp](/Resources/June_temp_analysis.PNG)
  
