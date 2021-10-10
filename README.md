@@ -25,5 +25,5 @@ In order to filter the data down to specific months of the year, I utilized the 
 
 ## Summary
 
-In summary Surf n' Shake shop has a high chance of being successful in Hawaii. Temperatures are high enough year-round for both areas of the business to remain successful. Additional queries I would run would be on precipitation and existing shops with similar products around the island.
+In summary Surf n' Shake shop has a high chance of being successful in Hawaii based on temp alone. Temperatures are high enough year-round for both areas of the business to remain successful. Additional queries I would run would be on precipitation and existing shops with similar products around the island.
 
