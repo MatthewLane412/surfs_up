@@ -6,11 +6,11 @@ This analysis is based on trying to open up a business called Surf n' Shake shop
 
 ## Results
 
-![movie query](/Resources/June_temp_analysis.PNG)
+![June_Temp](/Resources/June_temp_analysis.PNG)
  
-![movie query](/Resources/December_temp_analysis.PNG)
+![Dec_Temp](/Resources/December_temp_analysis.PNG)
   
- ![ratings query](/Resources/December temp analysis.PNG)
+ ![Code_Example](/Resources/Code_Example.PNG)
 
 ## Summary
 
